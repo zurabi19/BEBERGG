@@ -1,0 +1,20 @@
+﻿@model BeberGG.Models.User
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create User</title>
+</head>
+<body>
+    <h2>Create User</h2>
+    <form method="post" asp-controller="Stats" asp-action="GetMatches">
+        <label asp-for="gameName">Game Name:</label><br>
+        <input asp-for="gameName"><br>
+
+        <label asp-for="tagLine">Tag Line:</label><br>
+        <input asp-for="tagLine"><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

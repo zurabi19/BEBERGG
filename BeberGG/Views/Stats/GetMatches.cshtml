@@ -1,0 +1,51 @@
+﻿@model IEnumerable<BeberGG.Models.Match>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Participant Information</title>
+    <style>
+    </style>
+</head>
+<body>
+    <h1>Participant Information</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Win</th>
+                <th>Champion Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var match in Model)
+            {
+                foreach (var participant in match.info.participants)
+                {
+                    if(participant.teamId == 100)
+                    {
+                        <tr style="margin-bottom: 10px;">
+                            <td>@(participant.win ? "Win" : "Lose")</td>
+                            <td>@participant.summonerName</td>
+                            <td>@participant.championName</td>
+                        </tr>
+                    }
+                    else if (participant.teamId == 200)
+                    {
+                        <tr style="margin-bottom: 10px;">
+                            <td>@(participant.win ? "Win" : "Lose")</td>
+                            <td>@participant.summonerName</td>
+                            <td>@participant.championName</td>
+                        </tr>
+                    }
+                }
+                <tr>
+                    <td colspan="4"><hr></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
