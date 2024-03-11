@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\zukit\\source\\repos\\BeberGG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\repository\\matchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\repository\\matchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\repository\\imatchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\repository\\imatchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\views\\stats\\getmatches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\views\\stats\\getmatches.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,24 +11,40 @@
       "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\views\\stats\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\views\\stats\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\repository\\matchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\repository\\matchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\repository\\imatchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\repository\\imatchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\views\\stats\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\views\\stats\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\controllers\\statscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|solutionrelative:bebergg\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50B1ABF5-3DE7-43A2-8996-275A0B7ABBDE}|BeberGG\\BeberGG.csproj|c:\\users\\zukit\\source\\repos\\bebergg\\bebergg\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,71 +82,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Participant.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Participant.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Models\\Participant.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Participant.cs",
-              "RelativeToolTip": "BeberGG\\Models\\Participant.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T18:00:36.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Info.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Info.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Models\\Info.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Info.cs",
-              "RelativeToolTip": "BeberGG\\Models\\Info.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T15:17:13.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StatsController.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\StatsController.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Controllers\\StatsController.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\StatsController.cs",
-              "RelativeToolTip": "BeberGG\\Controllers\\StatsController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAABsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T01:37:04.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GetMatches.cshtml",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetMatches.cshtml",
               "RelativeDocumentMoniker": "BeberGG\\Views\\Stats\\GetMatches.cshtml",
               "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetMatches.cshtml",
               "RelativeToolTip": "BeberGG\\Views\\Stats\\GetMatches.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T22:24:56.985Z"
+              "WhenOpened": "2024-03-07T22:24:56.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetUser.cshtml",
-              "RelativeDocumentMoniker": "BeberGG\\Views\\Stats\\GetUser.cshtml",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetUser.cshtml",
-              "RelativeToolTip": "BeberGG\\Views\\Stats\\GetUser.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-07T10:58:13.075Z"
+              "DocumentIndex": 6,
+              "Title": "IMatchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Repository\\IMatchRepo.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Repository\\IMatchRepo.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Repository\\IMatchRepo.cs",
+              "RelativeToolTip": "BeberGG\\Repository\\IMatchRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:23:59.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Program.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Program.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Program.cs",
+              "RelativeToolTip": "BeberGG\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:21:32.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Match.cs",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Match.cs",
               "RelativeDocumentMoniker": "BeberGG\\Models\\Match.cs",
@@ -154,11 +133,51 @@
               "RelativeToolTip": "BeberGG\\Models\\Match.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T19:18:19.861Z"
+              "WhenOpened": "2024-03-07T19:18:19.861Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Info.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Models\\Info.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Info.cs",
+              "RelativeToolTip": "BeberGG\\Models\\Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:17:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Team.cs",
+              "RelativeToolTip": "BeberGG\\Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:13:39.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Models\\Participant.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Participant.cs",
+              "RelativeToolTip": "BeberGG\\Models\\Participant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:00:36.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MatchRepo.cs",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Repository\\MatchRepo.cs",
               "RelativeDocumentMoniker": "BeberGG\\Repository\\MatchRepo.cs",
@@ -171,19 +190,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMatchRepo.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Repository\\IMatchRepo.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Repository\\IMatchRepo.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Repository\\IMatchRepo.cs",
-              "RelativeToolTip": "BeberGG\\Repository\\IMatchRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "DocumentIndex": 8,
+              "Title": "GetUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetUser.cshtml",
+              "RelativeDocumentMoniker": "BeberGG\\Views\\Stats\\GetUser.cshtml",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Views\\Stats\\GetUser.cshtml",
+              "RelativeToolTip": "BeberGG\\Views\\Stats\\GetUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:58:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BeberGG\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:23:59.357Z"
+              "WhenOpened": "2024-03-07T01:36:07.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "StatsController.cs",
+              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\StatsController.cs",
+              "RelativeDocumentMoniker": "BeberGG\\Controllers\\StatsController.cs",
+              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\StatsController.cs",
+              "RelativeToolTip": "BeberGG\\Controllers\\StatsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:37:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MetaData.cs",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\MetaData.cs",
               "RelativeDocumentMoniker": "BeberGG\\Models\\MetaData.cs",
@@ -195,31 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Program.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Program.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Program.cs",
-              "RelativeToolTip": "BeberGG\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T00:21:32.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BeberGG\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T01:36:07.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Account.cs",
               "RelativeDocumentMoniker": "BeberGG\\Models\\Account.cs",
@@ -231,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\User.cs",
               "RelativeDocumentMoniker": "BeberGG\\Models\\User.cs",
@@ -240,18 +262,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T21:42:17.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "BeberGG\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\zukit\\source\\repos\\BeberGG\\BeberGG\\Models\\Team.cs",
-              "RelativeToolTip": "BeberGG\\Models\\Team.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T18:13:39.945Z"
             },
             {
               "$type": "Document",

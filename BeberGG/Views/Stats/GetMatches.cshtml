@@ -22,14 +22,13 @@
         height: 20px; /* Adjust the height as needed */
     }
 
-    /* Define background color for losing participants */
     .lose {
-        background-color: #FF9999; /* slightly darker red */
+        background-color: #FF9999; /* Slightly darker shade of red */
     }
 
     /* Define background color for winning participants */
     .win {
-        background-color: #9999FF; /* slightly darker blue */
+        background-color: #CCCCFF; /* Light blue */
     }
 </style>
 
@@ -44,19 +43,10 @@
         {
             @foreach (var participant in match.info.participants)
             {
-                @if (participant.teamId == 100 && !participant.win)
+                @if (participant.teamId == 100)
                 {
-                    <tr class="participant-row lose">
-                        <td class="participant-cell">Lose</td>
-                        <td class="participant-cell">@participant.summonerName</td>
-                        <td class="participant-cell">@participant.championName</td>
-                    </tr>
-                }
-
-                @if (participant.teamId == 100 && participant.win)
-                {
-                    <tr class="participant-row win">
-                        <td class="participant-cell">Win</td>
+                    <tr class="participant-row @(participant.win ? "win" : "lose")">
+                        <td class="participant-cell">@(participant.win ? "Win" : "Lose")</td>
                         <td class="participant-cell">@participant.summonerName</td>
                         <td class="participant-cell">@participant.championName</td>
                     </tr>
@@ -81,19 +71,10 @@
         {
             @foreach (var participant in match.info.participants)
             {
-                @if (participant.teamId != 100 && !participant.win)
+                @if (participant.teamId != 100)
                 {
-                    <tr class="participant-row lose">
-                        <td class="participant-cell">Lose</td>
-                        <td class="participant-cell">@participant.summonerName</td>
-                        <td class="participant-cell">@participant.championName</td>
-                    </tr>
-                }
-
-                @if (participant.teamId != 100 && participant.win)
-                {
-                    <tr class="participant-row win">
-                        <td class="participant-cell">Win</td>
+                    <tr class="participant-row @(participant.win ? "win" : "lose")">
+                        <td class="participant-cell">@(participant.win ? "Win" : "Lose")</td>
                         <td class="participant-cell">@participant.summonerName</td>
                         <td class="participant-cell">@participant.championName</td>
                     </tr>
