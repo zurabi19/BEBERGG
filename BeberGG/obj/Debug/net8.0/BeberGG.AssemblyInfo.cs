@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeberGG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1af69c921379319dd49a25b6d0a1aa0de49023")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21d3b3f31e6aa064946f013978518b061ef86ee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeberGG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeberGG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

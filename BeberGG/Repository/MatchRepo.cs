@@ -8,7 +8,7 @@ namespace BeberGG.Repository
     {
         HttpClient client;
         Uri uri = new Uri("https://europe.api.riotgames.com");
-        string key = "RGAPI-37ec5290-bd84-4aaa-aea9-48fdb7689b47";
+        string key = "RGAPI-4aeeeaa0-f3be-44c5-bca0-98fd8a7105da";
         public MatchRepo()
         {
             client = new HttpClient();

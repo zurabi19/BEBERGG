@@ -1,51 +1,108 @@
-﻿@model IEnumerable<BeberGG.Models.Match>
+﻿<style>
+    .team-table {
+        display: inline-block;
+        vertical-align: top;
+        margin-right: 20px;
+    }
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Participant Information</title>
-    <style>
-    </style>
-</head>
-<body>
-    <h1>Participant Information</h1>
+    .participant-row {
+        white-space: nowrap;
+    }
+
+    .participant-cell {
+        padding-right: 40px;
+    }
+
+    .header-cell {
+        font-weight: bold;
+    }
+
+    /* Define the height of the empty row */
+    .empty-row {
+        height: 20px; /* Adjust the height as needed */
+    }
+
+    /* Define background color for losing participants */
+    .lose {
+        background-color: #FF9999; /* slightly darker red */
+    }
+
+    /* Define background color for winning participants */
+    .win {
+        background-color: #9999FF; /* slightly darker blue */
+    }
+</style>
+
+<div class="team-table">
     <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Win</th>
-                <th>Champion Name</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var match in Model)
+        <tr>
+            <td class="header-cell">Result</td>
+            <td class="header-cell">Summoner Name</td>
+            <td class="header-cell">Champion Name</td>
+        </tr>
+        @foreach (var match in Model)
+        {
+            @foreach (var participant in match.info.participants)
             {
-                foreach (var participant in match.info.participants)
+                @if (participant.teamId == 100 && !participant.win)
                 {
-                    if(participant.teamId == 100)
-                    {
-                        <tr style="margin-bottom: 10px;">
-                            <td>@(participant.win ? "Win" : "Lose")</td>
-                            <td>@participant.summonerName</td>
-                            <td>@participant.championName</td>
-                        </tr>
-                    }
-                    else if (participant.teamId == 200)
-                    {
-                        <tr style="margin-bottom: 10px;">
-                            <td>@(participant.win ? "Win" : "Lose")</td>
-                            <td>@participant.summonerName</td>
-                            <td>@participant.championName</td>
-                        </tr>
-                    }
+                    <tr class="participant-row lose">
+                        <td class="participant-cell">Lose</td>
+                        <td class="participant-cell">@participant.summonerName</td>
+                        <td class="participant-cell">@participant.championName</td>
+                    </tr>
                 }
-                <tr>
-                    <td colspan="4"><hr></td>
-                </tr>
+
+                @if (participant.teamId == 100 && participant.win)
+                {
+                    <tr class="participant-row win">
+                        <td class="participant-cell">Win</td>
+                        <td class="participant-cell">@participant.summonerName</td>
+                        <td class="participant-cell">@participant.championName</td>
+                    </tr>
+                }
             }
-        </tbody>
+            <!-- Add an empty row after each match -->
+            <tr class="empty-row">
+                <td colspan="3"></td>
+            </tr>
+        }
     </table>
-</body>
-</html>
+</div>
+
+<div class="team-table">
+    <table>
+        <tr>
+            <td class="header-cell">Result</td>
+            <td class="header-cell">Summoner Name</td>
+            <td class="header-cell">Champion Name</td>
+        </tr>
+        @foreach (var match in Model)
+        {
+            @foreach (var participant in match.info.participants)
+            {
+                @if (participant.teamId != 100 && !participant.win)
+                {
+                    <tr class="participant-row lose">
+                        <td class="participant-cell">Lose</td>
+                        <td class="participant-cell">@participant.summonerName</td>
+                        <td class="participant-cell">@participant.championName</td>
+                    </tr>
+                }
+
+                @if (participant.teamId != 100 && participant.win)
+                {
+                    <tr class="participant-row win">
+                        <td class="participant-cell">Win</td>
+                        <td class="participant-cell">@participant.summonerName</td>
+                        <td class="participant-cell">@participant.championName</td>
+                    </tr>
+                }
+            }
+            <!-- Add an empty row after each match -->
+            <tr class="empty-row">
+                <td colspan="3"></td>
+            </tr>
+        }
+    </table>
+</div>
